@@ -1,7 +1,7 @@
 # Main Portfolio
   My main portfolio website that I will be updating often to include most recent projects, up-to-date resume information.
   <br>
-  https://marrinosnis.github.io/Portfolio/
+  https://marrinosnis.github.io/online-portfolio/
 
   ## Table of Contents
   <!-- * [Demo](#demo) -->
@@ -17,7 +17,7 @@
   <br>
   Name: Nisiotis Marinos
   <br>
-  [Github](https://github.com/marrinosnis)
+  [Github Account](https://github.com/marrinosnis)
   <br>
   Email: <nisiotis.mr@gmail.com>
 
