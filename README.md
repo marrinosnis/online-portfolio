@@ -1,5 +1,5 @@
 # Main Portfolio
-  My main portfolio website that I will be updating often to include most recent projects, up-to-date resume information.
+  My ain portfolio website that I will be updating often to include most recent projects, up-to-date resume information.
   <br>
   https://marrinosnis.github.io/online-portfolio/
 
